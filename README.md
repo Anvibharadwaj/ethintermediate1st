@@ -55,7 +55,7 @@ contract purchasingfromcart {
 ```
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.0" (or another compatible version), and then click on the "Compile errorhandling.sol" button.
 
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "purchasingfromcart" contract from the dropdown menu, and then click on the "fordiscount" button and transact, to see the value click on usingassert function call.Similarly, for another 3 function i.e. forshopping,changingownership and using assert function one can follow same procedure and you will get appropriate messages accordingly..
+Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "purchasingfromcart" contract from the dropdown menu, and then click on the "fordiscount" button and transact, to see the value click on usingassert function call.Similarly, for another 3 function i.e. forshopping,changingownership and using assert function one can follow same procedure and you will get appropriate messages accordingly.
 
 ##Author
 Anvi Bhardwaj
