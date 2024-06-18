@@ -1,11 +1,11 @@
-# Create Smart Contract using error handling functions.
+# Create Smart Contract Using Error Handling Functions.
 
 This Solidity program is a simple "Error Handling" program that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how it works.
 
 ## Description
 
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a 4 functions one constructor and 2 state variables. The role of 1st function is one has to add an amount to the cart's balance, and provided the amount is greater than 700.
-Role of 2nd function allows the owner to reduce the balance by a specified amount, given certain conditions by using require function.
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract contains 4 functions, one constructor and 2 state variables. The role of 1st function is,one has to add an amount to the cart's balance, and provided the amount is greater than 700 to get discount.
+2nd function allows the owner to reduce the balance by a specified amount, given certain conditions by using require function.
 Usingassert returns the current balance and checks for a critical invariant.
 by using last function that includes revert with sepicific if condition owner can change the address and give access to new owner.
 This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
